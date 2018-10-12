@@ -1,0 +1,36 @@
+[
+  {
+    "tag": "div",
+    "class": "col",
+    "component": "dogs",
+    "props": {
+      "dogs": [
+        {
+          "id": 1,
+          "name": "Barky"
+        },
+        {
+          "id": 2,
+          "name": "Jumpy"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "class": "col",
+    "component": "cats",
+    "props": {
+      "cats": [
+        {
+          "id": 1,
+          "name": "Miouwy"
+        },
+        {
+          "id": 2,
+          "name": "Fluffy"
+        }
+      ]
+    }
+  }
+]
